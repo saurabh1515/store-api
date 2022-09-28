@@ -1,3 +1,3 @@
 # store-api
 
-An API to for searching, sorting and listing product data.
+An API to for searching, sorting, filtering and listing product data.
