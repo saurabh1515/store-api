@@ -1,3 +1,3 @@
 # store-api
 
-An API to for searching, sorting, filtering and listing product data.
+A REST API for searching, sorting, filtering and listing product data made with NodeJS and MongoDB.
